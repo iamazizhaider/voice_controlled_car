@@ -27,3 +27,5 @@
 	For the optocouplers, a 9V battery is providing the VCC & GND to their circuit. 
 	
 	Team Members: 	Aziz Haider
+	
+	Use KEIL IDE Software to test your version of code onto the TM4C123GH6PM Launchpad
