@@ -26,5 +26,4 @@
 	minimum of 5V. However the microcontroller & the motor driver L298N are powered with two 9V battery in series, providing 18V in total.
 	For the optocouplers, a 9V battery is providing the VCC & GND to their circuit. 
 	
-	Team Members: 	Aziz Haider		
-									Ali Hussain 	
+	Team Members: 	Aziz Haider
